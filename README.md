@@ -13,7 +13,7 @@ For each model, the grid (tn, kj) was constructed as follows:
 For each pair (tn, kj), the project computed the price of the associated call option and its implied volatility. The set of volatilities σ(tn, kj) represents the volatility surface implied by each model. 
 Analytical solutions, including quasi-analytical ones, were available in literature for all models. The project meticulously compared Monte Carlo (MC) results with these analytical solutions to ascertain accuracy and efficacy.
 
-Project Year: 2024
-Programming Language Used: Python
+- Project Year: 2024
+- Programming Language Used: Python
 
 
